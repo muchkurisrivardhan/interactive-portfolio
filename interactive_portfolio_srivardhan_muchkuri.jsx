@@ -427,7 +427,7 @@ export default function Portfolio() {
               variant="outline"
               className={dark ? "" : "border-[#94a3b8] text-[#0f1113] hover:bg-slate-100"}
             >
-              <a href={PROFILE.github} target="_blank" rel="noreferrer">
+              <a href={PROFILE.github} target="https://github.com/muchkurisrivardhan" rel="noreferrer">
                 <Github className="h-4 w-4 mr-2" />
                 GitHub
               </a>
