@@ -437,7 +437,7 @@ export default function Portfolio() {
               variant="outline"
               className={dark ? "" : "border-[#94a3b8] text-[#0f1113] hover:bg-slate-100"}
             >
-              <a href={PROFILE.linkedin} target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/vardhan007/" target="_blank" rel="noreferrer">
                 <Linkedin className="h-4 w-4 mr-2" />
                 LinkedIn
               </a>
